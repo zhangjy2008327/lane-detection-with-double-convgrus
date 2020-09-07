@@ -1,7 +1,7 @@
 # lane-detection-with-double-convgrus
 Lane Detection Model Based on Spatio-Temporal Network with Double ConvGRUs
 
-this is source code for paper 'Lane Detection Model Based on Spatio-Temporal Network with Double ConvGRUs'
+this is source code for paper 'Lane Detection Model Based on Spatio-Temporal Network with Double ConvGRUs', which is under review
 
 https://arxiv.org/abs/2008.03922
 
